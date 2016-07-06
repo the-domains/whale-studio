@@ -1,0 +1,14 @@
+layout_spectrum: 0.5610330943018198
+typography_spectrum: 0.3231899186503142
+color:
+  brandStrength: 0.11052701994776726
+  lightness: 0.7538710923399776
+  saturation: 0.13473951956257224
+  rhythmicContrast: 0.4813862417358905
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: whale studio
